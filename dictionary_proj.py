@@ -1,12 +1,3 @@
-        #dictinary of words
-#add new word and their meaning 
-#and updating a new meaning 
-#and following actions: add a word,
-# search for a meaning,
-# display all words, 
-# update meaning, 
-# delete word etc...
-
 dictionary={}
 while True:
     print(" Dictiionary mangement")
@@ -55,3 +46,4 @@ while True:
 
 
             
+
